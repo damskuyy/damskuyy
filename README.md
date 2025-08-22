@@ -4,10 +4,12 @@
 #
 ![](img/github-header-banner.png)
 
-<img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
+<img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="200" height="auto" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damskuyy&hide=html&langs_count=14&size_weight=0&count_weight=1&layout=compact&theme=tokyonight&card_width=400px)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=damskuyy&theme=radical&show_icons=true&count_private=true) </td> -->
+
+***
 ### My Skills
 
 
@@ -29,18 +31,23 @@
 <img src="https://raw.githubusercontent.com/damskuyy/damskuyy/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damskuyy/damskuyy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damskuyy/damskuyy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/damskuyy/damskuyy/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
 ### Let's colab 🚀
-![mailto:damarnugroho199@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://wa.me/6281294378943](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![https://discord.com/channels/@me](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![https://www.github.com/damskuyy](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/damarrngrh_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/damar-nugroho-utomo-ab2276310/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/Damzznugroho09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://open.spotify.com/user/jpim3mkwk5tw9xypfr8etnt52](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![https://music.youtube.com/@damarnugroho6577](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
+<p>
+  <a href="mailto:damarnugroho199@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/6281294378943" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/damar-nugroho-utomo-ab2276310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/damarrngrh_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 
 
 
