@@ -4,7 +4,7 @@
 #
 ![](img/github-header-banner.png)
 
-<img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Eren" align="right" width="180" height="auto" />
+<img src="https://wallpapercave.com/wp/wp11965763.png" alt="Eren" align="right" width="auto" height="180" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damskuyy&hide=html&langs_count=14&size_weight=0&count_weight=1&layout=compact&theme=tokyonight&card_width=400px)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=damskuyy&theme=radical&show_icons=true&count_private=true) </td> -->
